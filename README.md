@@ -16,7 +16,6 @@
 
 ![Days](https://img.shields.io/badge/Days-1--100-blue)
 ![Focus](https://img.shields.io/badge/Focus-MLOps-orange)
-![Theme](https://img.shields.io/badge/Theme-One%20Piece%20Arc-red)
 ![Level](https://img.shields.io/badge/Level-Beginner_to_Pro-green)
 
 </p>
@@ -33,10 +32,10 @@
 
 ---
 
-## 🗺️ Progress Bar (Animated Feel)
+## 🗺️ Progress Bar
 
 ```
-Day Progress: 1/100
+Day Progress: 2/100
 ```
 
 ---
