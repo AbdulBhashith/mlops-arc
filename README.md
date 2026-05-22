@@ -35,7 +35,7 @@
 ## 🗺️ Progress Bar
 
 ```
-Day Progress: 5/100
+Day Progress: 6/100
 ```
 
 ---
