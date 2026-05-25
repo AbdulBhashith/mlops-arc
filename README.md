@@ -30,15 +30,9 @@
 🔴 New World        → Cloud, Scaling, Production ML
 ```
 
----
-
 ## 🗺️ Progress Bar
 
-```
-Day Progress: 8/100
-```
-
----
+![Progress](https://img.shields.io/badge/Progress-9%2F100-blue?style=for-the-badge)
 
 ## ⚔️ Daily Arc Structure
 
