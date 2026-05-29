@@ -15,8 +15,8 @@
 <p align="center">
 
 ![Days](https://img.shields.io/badge/Days-1--100-blue)
-![Focus](https://img.shields.io/badge/Focus-MLOps-orange)
-![Level](https://img.shields.io/badge/Level-Beginner_to_Pro-green)
+![Focus](https://img.shields.io/badge/Focus-MLOps-green)
+![Level](https://img.shields.io/badge/Level-Beginner_to_Pro-purple)
 
 </p>
 
@@ -32,7 +32,7 @@
 
 ## 🗺️ Progress Bar
 
-![Progress](https://img.shields.io/badge/Progress-12%2F100-skyblue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-13%2F100-skyblue?style=for-the-badge)
 
 ## ⚔️ Daily Arc Structure
 
