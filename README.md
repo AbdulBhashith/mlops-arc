@@ -32,7 +32,7 @@
 
 ## 🗺️ Progress Bar
 
-![Progress](https://img.shields.io/badge/Progress-14%2F100-skyblue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-15%2F100-blue?style=for-the-badge)
 
 ## ⚔️ Daily Arc Structure
 
